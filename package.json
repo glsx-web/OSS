@@ -14,9 +14,9 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "glsx-vue-admin": "^2.0.12",
-    "glsx-vue-common": "^1.1.15",
-    "glsx-vue-components": "^1.0.13",
+    "glsx-vue-admin": "^2.0.16",
+    "glsx-vue-common": "^1.1.20",
+    "glsx-vue-components": "^1.0.15",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
     "vuex": "3.0.1"
